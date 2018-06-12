@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9470e289-3e9c-4ee7-a90d-908d500cb0bb" name="默认" comment="" />
+    <list default="true" id="9470e289-3e9c-4ee7-a90d-908d500cb0bb" name="默认" comment="绘制六边形">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Square.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Square.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/Square.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="2">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hexagon.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/Hexagon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackedEdges.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/StackedEdges.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -42,10 +62,12 @@
         <option value="$PROJECT_DIR$/CurrencyConversion.py" />
         <option value="$PROJECT_DIR$/Python基本语法元素 (第1周)/TemperatureConversion.py" />
         <option value="$PROJECT_DIR$/Python基本图形绘制 (第2周)/Square.py" />
+        <option value="$PROJECT_DIR$/Python基本图形绘制 (第2周)/Hexagon.py" />
+        <option value="$PROJECT_DIR$/Python基本图形绘制 (第2周)/StackedEdges.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="150" />
     <option name="y" value="30" />
     <option name="width" value="1709" />
@@ -64,6 +86,11 @@
             <path>
               <item name="Python123" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python123" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python123" type="462c0819:PsiDirectoryNode" />
+              <item name="Python基本图形绘制 (第2周)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,25 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Square">
-    <configuration name="CurrencyConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python123" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CurrencyConversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.StackedEdges">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python123" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +128,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基本语法元素 (第1周)/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Hexagon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基本图形绘制 (第2周)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基本图形绘制 (第2周)/Hexagon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,6 +169,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="StackedEdges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基本图形绘制 (第2周)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基本图形绘制 (第2周)/StackedEdges.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="TemperatureConversion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python123" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,38 +205,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="TemperatureConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python123" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TemperatureConversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.TemperatureConversion" />
-      <item itemvalue="Python.CurrencyConversion" />
       <item itemvalue="Python.TemperatureConversion (1)" />
       <item itemvalue="Python.HelloWorld" />
       <item itemvalue="Python.Square" />
+      <item itemvalue="Python.Hexagon" />
+      <item itemvalue="Python.StackedEdges" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StackedEdges" />
+        <item itemvalue="Python.Hexagon" />
         <item itemvalue="Python.Square" />
         <item itemvalue="Python.HelloWorld" />
         <item itemvalue="Python.TemperatureConversion (1)" />
-        <item itemvalue="Python.CurrencyConversion" />
-        <item itemvalue="Python.TemperatureConversion" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +233,21 @@
       <option name="presentableId" value="Default" />
       <updated>1528780464406</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit2">
+      <created>1528815184193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528815184193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="绘制六边形">
+      <created>1528815840686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528815840686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -272,6 +314,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <MESSAGE value="绘制六边形" />
+    <option name="LAST_COMMIT_MESSAGE" value="绘制六边形" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.py">
@@ -360,8 +407,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/Square.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="2">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/Hexagon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/StackedEdges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
