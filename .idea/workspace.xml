@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9470e289-3e9c-4ee7-a90d-908d500cb0bb" name="默认" comment="绘制同切圆">
-      <change afterPath="$PROJECT_DIR$/Python基本图形绘制 (第2周)/LengthConversion.py" afterDir="false" />
+    <list default="true" id="9470e289-3e9c-4ee7-a90d-908d500cb0bb" name="默认" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="LengthConversion.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/LengthConversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="279">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -61,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="150" />
     <option name="y" value="30" />
     <option name="width" value="1710" />
@@ -267,14 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528816951912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="米和英寸之间的长度转换">
+      <created>1528849411824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528849411824</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1673177" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1673177" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
       <window_info anchor="right" id="R Packages" order="3" />
@@ -282,7 +288,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32872927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -340,7 +346,8 @@
     <MESSAGE value="绘制六边形" />
     <MESSAGE value="绘制叠边形(内角为80度)" />
     <MESSAGE value="绘制同切圆" />
-    <option name="LAST_COMMIT_MESSAGE" value="绘制同切圆" />
+    <MESSAGE value="米和英寸之间的长度转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="米和英寸之间的长度转换" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/Square.py">
@@ -444,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基本图形绘制 (第2周)/LengthConversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="279">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
